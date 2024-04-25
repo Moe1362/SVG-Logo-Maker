@@ -17,7 +17,7 @@ Install dependencies.
 ## Usage
 
 ![Logo Generator](./images/pic.png)
- ![Video Link](https://drive.google.com/file/d/1ITRJjbbSXnT2AQEUdfJKUznqzphyQZ68/preview) 
+<iframe src="https://drive.google.com/file/d/1ITRJjbbSXnT2AQEUdfJKUznqzphyQZ68/preview"></iframe>
 
 
 ## Follow the prompts to customize your logo:
